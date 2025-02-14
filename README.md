@@ -7,6 +7,6 @@ How to use:
 #step 3: pip install PyQt5 
 #step 4: python coin.py
 
-!!!WORKING!!!
+
 ![1](https://github.com/user-attachments/assets/eb8c55b1-166b-4462-a33f-cc5ae41c0d2c)
 ![2](https://github.com/user-attachments/assets/60c1354f-1f12-444b-ad13-d76b6b35df36)
